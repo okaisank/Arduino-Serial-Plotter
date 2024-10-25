@@ -14,7 +14,7 @@ To replicate this, wire up the system as shown below:
 
 For more info, check out the Code Raw [here](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/dht_temperature_serial_plotter.ino).
 
-For more info, check out the Code
+
 ![system_diagram](https://github.com/okaisank/Arduino-Serial-Plotter/blob/93170661a6e48c9ec93a7addcbb76e5be76bdfb5/Capture%203.PNG)
 
 To replicate this, wire up the system as shown below:
